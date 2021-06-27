@@ -1,7 +1,6 @@
 /**
  * @file buscar.h
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Definindo as funções de busca 
 */
 
