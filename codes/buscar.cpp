@@ -1,7 +1,6 @@
 /**
  * @file buscar.cpp
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Classes de busca 
 */
 
