@@ -1,7 +1,6 @@
 /**
  * @file complemento.cpp
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Funções auxiliares para o projeto
 */
 
