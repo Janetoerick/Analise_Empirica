@@ -1,7 +1,6 @@
 /**
  * @file Test.cpp
  * @author Janeto Erick
- * @author Julio Cesar
 */
 
 #include <iostream>
